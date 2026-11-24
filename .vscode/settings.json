@@ -1,0 +1,20 @@
+{
+  "chat.disableAIFeatures": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "c": true
+  },
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tabCompletion": "on",
+  "editor.parameterHints.enabled": true,
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {"*.h": "c"}
+}

@@ -1,0 +1,14 @@
+body {
+    background-color: #121212;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+.logo{
+    width: 1.5vw;
+    height: 1.5vw;
+    filter: invert(1);
+}
+h1{
+    display: inline;
+    
+}
